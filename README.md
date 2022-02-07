@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/> Hey! Welcome to my repo!</h1>
 
-<p>I'm Arthur Ticianeli, front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Alagoas, Brasil</b>, moving to <img src="![image](https://user-images.githubusercontent.com/80481966/152835933-38927381-4f45-4079-96ce-ace12bb78265.png)" width="13"/> <b>Michigan, EUA</b>. </p>
+<p>I'm Arthur Ticianeli, front-end developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Alagoas, Brasil</b>, moving to <img src="https://user-images.githubusercontent.com/80481966/152835933-38927381-4f45-4079-96ce-ace12bb78265.png" width="13"/> <b>Michigan, EUA</b>. </p>
 <h3>I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
