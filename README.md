@@ -1,4 +1,4 @@
-<img src="https://ibb.co/Y0vGpk2">
+<img src="https://i.ibb.co/PDB8whx/header.jpg">
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/> Hey! Welcome to my repo!</h1>
 
